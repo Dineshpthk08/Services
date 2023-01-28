@@ -1,0 +1,49 @@
+C:\Projects\WebAPI\DataManagement\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Business.deps.json
+C:\Projects\WebAPI\DataManagement\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Business.dll
+C:\Projects\WebAPI\DataManagement\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Business.pdb
+C:\Projects\WebAPI\DataManagement\DataManagement.Business\obj\Debug\netstandard2.0\DataManagement.Business.csprojAssemblyReference.cache
+C:\Projects\WebAPI\DataManagement\DataManagement.Business\obj\Debug\netstandard2.0\DataManagement.Business.AssemblyInfoInputs.cache
+C:\Projects\WebAPI\DataManagement\DataManagement.Business\obj\Debug\netstandard2.0\DataManagement.Business.AssemblyInfo.cs
+C:\Projects\WebAPI\DataManagement\DataManagement.Business\obj\Debug\netstandard2.0\DataManagement.Business.dll
+C:\Projects\WebAPI\DataManagement\DataManagement.Business\obj\Debug\netstandard2.0\DataManagement.Business.pdb
+C:\Projects\WebAPI\DataManagement\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Business.Interfaces.dll
+C:\Projects\WebAPI\DataManagement\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Entities.dll
+C:\Projects\WebAPI\DataManagement\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Repository.Interfaces.dll
+C:\Projects\WebAPI\DataManagement\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Business.Interfaces.pdb
+C:\Projects\WebAPI\DataManagement\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Entities.pdb
+C:\Projects\WebAPI\DataManagement\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Repository.Interfaces.pdb
+C:\Projects\WebAPI\DataManagement\DataManagement.Business\obj\Debug\netstandard2.0\DataManagement.Business.csproj.CopyComplete
+C:\Projects\WebAPI\DataManagement\DataManagement.Business\obj\Debug\netstandard2.0\DataManagement.Business.csproj.CoreCompileInputs.cache
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Business.deps.json
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Business.dll
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Business.pdb
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Business.Interfaces.dll
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Entities.dll
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Repository.Interfaces.dll
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Business.Interfaces.pdb
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Entities.pdb
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Repository.Interfaces.pdb
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Business\obj\Debug\netstandard2.0\DataManagement.Business.csprojAssemblyReference.cache
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Business\obj\Debug\netstandard2.0\DataManagement.Business.AssemblyInfoInputs.cache
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Business\obj\Debug\netstandard2.0\DataManagement.Business.AssemblyInfo.cs
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Business\obj\Debug\netstandard2.0\DataManagement.Business.csproj.CoreCompileInputs.cache
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Business\obj\Debug\netstandard2.0\DataManagement.Business.csproj.CopyComplete
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Business\obj\Debug\netstandard2.0\DataManagement.Business.dll
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Business\obj\Debug\netstandard2.0\DataManagement.Business.pdb
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Business.deps.json
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Business.dll
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Business.pdb
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Business.Interfaces.dll
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Entities.dll
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Repository.Interfaces.dll
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Business.Interfaces.pdb
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Entities.pdb
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Repository.Interfaces.pdb
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Business\obj\Debug\netstandard2.0\DataManagement.Business.csproj.AssemblyReference.cache
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Business\obj\Debug\netstandard2.0\DataManagement.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Business\obj\Debug\netstandard2.0\DataManagement.Business.AssemblyInfoInputs.cache
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Business\obj\Debug\netstandard2.0\DataManagement.Business.AssemblyInfo.cs
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Business\obj\Debug\netstandard2.0\DataManagement.Business.csproj.CoreCompileInputs.cache
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Business\obj\Debug\netstandard2.0\DataManagement.Business.csproj.CopyComplete
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Business\obj\Debug\netstandard2.0\DataManagement.Business.dll
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Business\obj\Debug\netstandard2.0\DataManagement.Business.pdb

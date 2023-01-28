@@ -1,0 +1,87 @@
+C:\Projects\WebAPI\DataManagement\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.API.deps.json
+C:\Projects\WebAPI\DataManagement\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.API.runtimeconfig.json
+C:\Projects\WebAPI\DataManagement\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.API.runtimeconfig.dev.json
+C:\Projects\WebAPI\DataManagement\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.API.dll
+C:\Projects\WebAPI\DataManagement\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.API.pdb
+C:\Projects\WebAPI\DataManagement\DataManagement.API\obj\Debug\netcoreapp2.1\DataManagement.API.csprojAssemblyReference.cache
+C:\Projects\WebAPI\DataManagement\DataManagement.API\obj\Debug\netcoreapp2.1\DataManagement.API.RazorAssemblyInfo.cache
+C:\Projects\WebAPI\DataManagement\DataManagement.API\obj\Debug\netcoreapp2.1\DataManagement.API.RazorAssemblyInfo.cs
+C:\Projects\WebAPI\DataManagement\DataManagement.API\obj\Debug\netcoreapp2.1\DataManagement.API.AssemblyInfoInputs.cache
+C:\Projects\WebAPI\DataManagement\DataManagement.API\obj\Debug\netcoreapp2.1\DataManagement.API.AssemblyInfo.cs
+C:\Projects\WebAPI\DataManagement\DataManagement.API\obj\Debug\netcoreapp2.1\DataManagement.API.RazorTargetAssemblyInfo.cache
+C:\Projects\WebAPI\DataManagement\DataManagement.API\obj\Debug\netcoreapp2.1\DataManagement.API.dll
+C:\Projects\WebAPI\DataManagement\DataManagement.API\obj\Debug\netcoreapp2.1\DataManagement.API.pdb
+C:\Projects\WebAPI\DataManagement\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.Business.dll
+C:\Projects\WebAPI\DataManagement\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.Business.Interfaces.dll
+C:\Projects\WebAPI\DataManagement\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.Entities.dll
+C:\Projects\WebAPI\DataManagement\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.Repository.dll
+C:\Projects\WebAPI\DataManagement\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.Repository.Interfaces.dll
+C:\Projects\WebAPI\DataManagement\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.Business.Interfaces.pdb
+C:\Projects\WebAPI\DataManagement\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.Business.pdb
+C:\Projects\WebAPI\DataManagement\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.Entities.pdb
+C:\Projects\WebAPI\DataManagement\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.Repository.Interfaces.pdb
+C:\Projects\WebAPI\DataManagement\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.Repository.pdb
+C:\Projects\WebAPI\DataManagement\DataManagement.API\obj\Debug\netcoreapp2.1\DataManagement.API.csproj.CopyComplete
+C:\Projects\WebAPI\DataManagement\DataManagement.API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Projects\WebAPI\DataManagement\DataManagement.API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Projects\WebAPI\DataManagement\DataManagement.API\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Projects\WebAPI\DataManagement\DataManagement.API\obj\Debug\netcoreapp2.1\DataManagement.API.csproj.CoreCompileInputs.cache
+C:\Projects\WebAPI\DataManagement\DataManagement.API\obj\Debug\netcoreapp2.1\DataManagement.API.genruntimeconfig.cache
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.API.deps.json
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.API.runtimeconfig.json
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.API.runtimeconfig.dev.json
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.API.dll
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.API.pdb
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.Business.dll
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.Business.Interfaces.dll
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.Entities.dll
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.Repository.dll
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.Repository.Interfaces.dll
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.Business.Interfaces.pdb
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.Business.pdb
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.Entities.pdb
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.Repository.Interfaces.pdb
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.Repository.pdb
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.API\obj\Debug\netcoreapp2.1\DataManagement.API.csprojAssemblyReference.cache
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.API\obj\Debug\netcoreapp2.1\DataManagement.API.AssemblyInfoInputs.cache
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.API\obj\Debug\netcoreapp2.1\DataManagement.API.AssemblyInfo.cs
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.API\obj\Debug\netcoreapp2.1\DataManagement.API.csproj.CoreCompileInputs.cache
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.API\obj\Debug\netcoreapp2.1\DataManagement.API.RazorAssemblyInfo.cache
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.API\obj\Debug\netcoreapp2.1\DataManagement.API.RazorAssemblyInfo.cs
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.API\obj\Debug\netcoreapp2.1\DataManagement.API.RazorTargetAssemblyInfo.cache
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.API\obj\Debug\netcoreapp2.1\DataManagement.API.csproj.CopyComplete
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.API\obj\Debug\netcoreapp2.1\DataManagement.API.dll
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.API\obj\Debug\netcoreapp2.1\DataManagement.API.pdb
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.API\obj\Debug\netcoreapp2.1\DataManagement.API.genruntimeconfig.cache
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.API.deps.json
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.API.runtimeconfig.json
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.API.runtimeconfig.dev.json
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.API.dll
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.API.pdb
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.Business.dll
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.Business.Interfaces.dll
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.Entities.dll
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.Repository.dll
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.Repository.Interfaces.dll
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.Business.Interfaces.pdb
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.Business.pdb
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.Entities.pdb
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.Repository.Interfaces.pdb
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.API\bin\Debug\netcoreapp2.1\DataManagement.Repository.pdb
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.API\obj\Debug\netcoreapp2.1\DataManagement.API.csproj.AssemblyReference.cache
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.API\obj\Debug\netcoreapp2.1\DataManagement.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.API\obj\Debug\netcoreapp2.1\DataManagement.API.AssemblyInfoInputs.cache
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.API\obj\Debug\netcoreapp2.1\DataManagement.API.AssemblyInfo.cs
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.API\obj\Debug\netcoreapp2.1\DataManagement.API.csproj.CoreCompileInputs.cache
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.API\obj\Debug\netcoreapp2.1\DataManagement.API.RazorAssemblyInfo.cache
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.API\obj\Debug\netcoreapp2.1\DataManagement.API.RazorAssemblyInfo.cs
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.API\obj\Debug\netcoreapp2.1\DataManagement.API.RazorTargetAssemblyInfo.cache
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.API\obj\Debug\netcoreapp2.1\DataManagement.API.csproj.CopyComplete
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.API\obj\Debug\netcoreapp2.1\DataManagement.API.dll
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.API\obj\Debug\netcoreapp2.1\DataManagement.API.pdb
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.API\obj\Debug\netcoreapp2.1\DataManagement.API.genruntimeconfig.cache

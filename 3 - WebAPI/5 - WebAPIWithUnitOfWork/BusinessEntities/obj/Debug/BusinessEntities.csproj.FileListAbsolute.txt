@@ -1,0 +1,19 @@
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\RESTful_Day_1\WebApi\WebApi\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\RESTful_Day_1\WebApi\WebApi\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\RESTful_Day_1\WebApi\WebApi\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\RESTful_Day_1\WebApi\WebApi\BusinessEntities\obj\Debug\BusinessEntities.pdb
+C:\Projects\WebAPI\AkhilMittal\WebApi\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Projects\WebAPI\AkhilMittal\WebApi\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Projects\WebAPI\AkhilMittal\WebApi\BusinessEntities\obj\Debug\BusinessEntities.csprojAssemblyReference.cache
+C:\Projects\WebAPI\AkhilMittal\WebApi\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Projects\WebAPI\AkhilMittal\WebApi\BusinessEntities\obj\Debug\BusinessEntities.pdb
+C:\DemoProjects\10.0 - Services\3 - WebAPI\6 - AkhilMittal\WebApi\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\DemoProjects\10.0 - Services\3 - WebAPI\6 - AkhilMittal\WebApi\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\DemoProjects\10.0 - Services\3 - WebAPI\6 - AkhilMittal\WebApi\BusinessEntities\obj\Debug\BusinessEntities.csproj.AssemblyReference.cache
+C:\DemoProjects\10.0 - Services\3 - WebAPI\6 - AkhilMittal\WebApi\BusinessEntities\obj\Debug\BusinessEntities.csproj.CoreCompileInputs.cache
+C:\DemoProjects\10.0 - Services\3 - WebAPI\6 - AkhilMittal\WebApi\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\DemoProjects\10.0 - Services\3 - WebAPI\6 - AkhilMittal\WebApi\BusinessEntities\obj\Debug\BusinessEntities.pdb

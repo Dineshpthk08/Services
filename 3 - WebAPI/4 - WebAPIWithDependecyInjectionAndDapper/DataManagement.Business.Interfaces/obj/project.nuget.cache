@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2+GR/AJlXzUuHcfhPHyZJbt5sL2IxVTPDQjmiyipUO+7atIITlgaEnoVHcJSkxGXE8FeRoF2rDfetM7Fc7jF3g==",
+  "success": true,
+  "projectFilePath": "C:\\DemoProjects\\10.0 - Services\\3 - WebAPI\\4.1 - DependecyInjectionWithDapper\\DataManagement.Business.Interfaces\\DataManagement.Business.Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dpathak\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dpathak\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

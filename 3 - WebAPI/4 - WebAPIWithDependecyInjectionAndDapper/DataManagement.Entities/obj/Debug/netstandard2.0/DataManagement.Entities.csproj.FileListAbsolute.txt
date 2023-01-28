@@ -1,0 +1,28 @@
+C:\Projects\WebAPI\DataManagement\DataManagement.Entities\bin\Debug\netstandard2.0\DataManagement.Entities.deps.json
+C:\Projects\WebAPI\DataManagement\DataManagement.Entities\bin\Debug\netstandard2.0\DataManagement.Entities.dll
+C:\Projects\WebAPI\DataManagement\DataManagement.Entities\bin\Debug\netstandard2.0\DataManagement.Entities.pdb
+C:\Projects\WebAPI\DataManagement\DataManagement.Entities\obj\Debug\netstandard2.0\DataManagement.Entities.AssemblyInfoInputs.cache
+C:\Projects\WebAPI\DataManagement\DataManagement.Entities\obj\Debug\netstandard2.0\DataManagement.Entities.AssemblyInfo.cs
+C:\Projects\WebAPI\DataManagement\DataManagement.Entities\obj\Debug\netstandard2.0\DataManagement.Entities.dll
+C:\Projects\WebAPI\DataManagement\DataManagement.Entities\obj\Debug\netstandard2.0\DataManagement.Entities.pdb
+C:\Projects\WebAPI\DataManagement\DataManagement.Entities\obj\Debug\netstandard2.0\DataManagement.Entities.csprojAssemblyReference.cache
+C:\Projects\WebAPI\DataManagement\DataManagement.Entities\obj\Debug\netstandard2.0\DataManagement.Entities.csproj.CoreCompileInputs.cache
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Entities\bin\Debug\netstandard2.0\DataManagement.Entities.deps.json
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Entities\bin\Debug\netstandard2.0\DataManagement.Entities.dll
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Entities\bin\Debug\netstandard2.0\DataManagement.Entities.pdb
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Entities\obj\Debug\netstandard2.0\DataManagement.Entities.csprojAssemblyReference.cache
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Entities\obj\Debug\netstandard2.0\DataManagement.Entities.AssemblyInfoInputs.cache
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Entities\obj\Debug\netstandard2.0\DataManagement.Entities.AssemblyInfo.cs
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Entities\obj\Debug\netstandard2.0\DataManagement.Entities.csproj.CoreCompileInputs.cache
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Entities\obj\Debug\netstandard2.0\DataManagement.Entities.dll
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Entities\obj\Debug\netstandard2.0\DataManagement.Entities.pdb
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Entities\bin\Debug\netstandard2.0\DataManagement.Entities.deps.json
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Entities\bin\Debug\netstandard2.0\DataManagement.Entities.dll
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Entities\bin\Debug\netstandard2.0\DataManagement.Entities.pdb
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Entities\obj\Debug\netstandard2.0\DataManagement.Entities.csproj.AssemblyReference.cache
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Entities\obj\Debug\netstandard2.0\DataManagement.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Entities\obj\Debug\netstandard2.0\DataManagement.Entities.AssemblyInfoInputs.cache
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Entities\obj\Debug\netstandard2.0\DataManagement.Entities.AssemblyInfo.cs
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Entities\obj\Debug\netstandard2.0\DataManagement.Entities.csproj.CoreCompileInputs.cache
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Entities\obj\Debug\netstandard2.0\DataManagement.Entities.dll
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Entities\obj\Debug\netstandard2.0\DataManagement.Entities.pdb

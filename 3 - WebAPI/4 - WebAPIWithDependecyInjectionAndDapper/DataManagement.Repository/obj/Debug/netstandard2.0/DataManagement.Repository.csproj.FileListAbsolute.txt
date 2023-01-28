@@ -1,0 +1,43 @@
+C:\Projects\WebAPI\DataManagement\DataManagement.Repository\obj\Debug\netstandard2.0\DataManagement.Repository.csprojAssemblyReference.cache
+C:\Projects\WebAPI\DataManagement\DataManagement.Repository\obj\Debug\netstandard2.0\DataManagement.Repository.AssemblyInfoInputs.cache
+C:\Projects\WebAPI\DataManagement\DataManagement.Repository\obj\Debug\netstandard2.0\DataManagement.Repository.AssemblyInfo.cs
+C:\Projects\WebAPI\DataManagement\DataManagement.Repository\bin\Debug\netstandard2.0\DataManagement.Repository.deps.json
+C:\Projects\WebAPI\DataManagement\DataManagement.Repository\bin\Debug\netstandard2.0\DataManagement.Repository.dll
+C:\Projects\WebAPI\DataManagement\DataManagement.Repository\bin\Debug\netstandard2.0\DataManagement.Entities.dll
+C:\Projects\WebAPI\DataManagement\DataManagement.Repository\bin\Debug\netstandard2.0\DataManagement.Repository.Interfaces.dll
+C:\Projects\WebAPI\DataManagement\DataManagement.Repository\bin\Debug\netstandard2.0\DataManagement.Entities.pdb
+C:\Projects\WebAPI\DataManagement\DataManagement.Repository\bin\Debug\netstandard2.0\DataManagement.Repository.Interfaces.pdb
+C:\Projects\WebAPI\DataManagement\DataManagement.Repository\obj\Debug\netstandard2.0\DataManagement.Repository.csproj.CopyComplete
+C:\Projects\WebAPI\DataManagement\DataManagement.Repository\bin\Debug\netstandard2.0\DataManagement.Repository.pdb
+C:\Projects\WebAPI\DataManagement\DataManagement.Repository\obj\Debug\netstandard2.0\DataManagement.Repository.dll
+C:\Projects\WebAPI\DataManagement\DataManagement.Repository\obj\Debug\netstandard2.0\DataManagement.Repository.pdb
+C:\Projects\WebAPI\DataManagement\DataManagement.Repository\obj\Debug\netstandard2.0\DataManagement.Repository.csproj.CoreCompileInputs.cache
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Repository\bin\Debug\netstandard2.0\DataManagement.Repository.deps.json
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Repository\bin\Debug\netstandard2.0\DataManagement.Repository.dll
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Repository\bin\Debug\netstandard2.0\DataManagement.Repository.pdb
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Repository\bin\Debug\netstandard2.0\DataManagement.Entities.dll
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Repository\bin\Debug\netstandard2.0\DataManagement.Repository.Interfaces.dll
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Repository\bin\Debug\netstandard2.0\DataManagement.Entities.pdb
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Repository\bin\Debug\netstandard2.0\DataManagement.Repository.Interfaces.pdb
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Repository\obj\Debug\netstandard2.0\DataManagement.Repository.csprojAssemblyReference.cache
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Repository\obj\Debug\netstandard2.0\DataManagement.Repository.AssemblyInfoInputs.cache
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Repository\obj\Debug\netstandard2.0\DataManagement.Repository.AssemblyInfo.cs
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Repository\obj\Debug\netstandard2.0\DataManagement.Repository.csproj.CoreCompileInputs.cache
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Repository\obj\Debug\netstandard2.0\DataManagement.Repository.csproj.CopyComplete
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Repository\obj\Debug\netstandard2.0\DataManagement.Repository.dll
+C:\Projects\WebAPI\DependecyInjectionWithDapper\DataManagement.Repository\obj\Debug\netstandard2.0\DataManagement.Repository.pdb
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Repository\bin\Debug\netstandard2.0\DataManagement.Repository.deps.json
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Repository\bin\Debug\netstandard2.0\DataManagement.Repository.dll
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Repository\bin\Debug\netstandard2.0\DataManagement.Repository.pdb
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Repository\bin\Debug\netstandard2.0\DataManagement.Entities.dll
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Repository\bin\Debug\netstandard2.0\DataManagement.Repository.Interfaces.dll
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Repository\bin\Debug\netstandard2.0\DataManagement.Entities.pdb
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Repository\bin\Debug\netstandard2.0\DataManagement.Repository.Interfaces.pdb
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Repository\obj\Debug\netstandard2.0\DataManagement.Repository.csproj.AssemblyReference.cache
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Repository\obj\Debug\netstandard2.0\DataManagement.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Repository\obj\Debug\netstandard2.0\DataManagement.Repository.AssemblyInfoInputs.cache
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Repository\obj\Debug\netstandard2.0\DataManagement.Repository.AssemblyInfo.cs
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Repository\obj\Debug\netstandard2.0\DataManagement.Repository.csproj.CoreCompileInputs.cache
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Repository\obj\Debug\netstandard2.0\DataManagement.Repository.csproj.CopyComplete
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Repository\obj\Debug\netstandard2.0\DataManagement.Repository.dll
+C:\DemoProjects\10.0 - Services\3 - WebAPI\4.1 - DependecyInjectionWithDapper\DataManagement.Repository\obj\Debug\netstandard2.0\DataManagement.Repository.pdb
