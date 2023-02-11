@@ -1,0 +1,333 @@
+C:\test\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\test\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\appsettings.json
+C:\test\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\test\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.exe
+C:\test\ECommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Products.StaticWebAssets.Manifest.cache
+C:\test\ECommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Products.StaticWebAssets.xml
+C:\test\ECommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.AssemblyInfoInputs.cache
+C:\test\ECommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.AssemblyInfo.cs
+C:\test\ECommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.RazorTargetAssemblyInfo.cache
+C:\test\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.deps.json
+C:\test\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.runtimeconfig.json
+C:\test\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.runtimeconfig.dev.json
+C:\test\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.dll
+C:\test\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.pdb
+C:\test\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\test\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\test\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\test\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\test\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\test\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\test\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\test\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\test\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\test\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\test\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\test\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\test\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\test\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\test\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\test\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\test\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\test\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\test\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\test\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\test\ECommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.MvcApplicationPartsAssemblyInfo.cache
+C:\test\ECommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.csproj.CopyComplete
+C:\test\ECommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.dll
+C:\test\ECommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.pdb
+C:\test\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\test\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\test\ECommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.csprojAssemblyReference.cache
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\appsettings.json
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.exe
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.deps.json
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.runtimeconfig.json
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.runtimeconfig.dev.json
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.pdb
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\repos\ecommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Products.StaticWebAssets.Manifest.cache
+C:\repos\ecommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Products.StaticWebAssets.xml
+C:\repos\ecommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.AssemblyInfoInputs.cache
+C:\repos\ecommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.AssemblyInfo.cs
+C:\repos\ecommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.RazorTargetAssemblyInfo.cache
+C:\repos\ecommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.csproj.CopyComplete
+C:\repos\ecommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.dll
+C:\repos\ecommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.pdb
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\repos\ecommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\repos\ecommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.MvcApplicationPartsAssemblyInfo.cache
+C:\repos\ecommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.csprojAssemblyReference.cache
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\appsettings.Development.json
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\appsettings.json
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.exe
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.deps.json
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.runtimeconfig.json
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.runtimeconfig.dev.json
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.pdb
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\AutoMapper.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+c:\course\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\course\ECommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Products.StaticWebAssets.Manifest.cache
+c:\course\ECommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Products.StaticWebAssets.xml
+c:\course\ECommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.AssemblyInfoInputs.cache
+c:\course\ECommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.AssemblyInfo.cs
+c:\course\ECommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.RazorTargetAssemblyInfo.cache
+c:\course\ECommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.csproj.CopyComplete
+c:\course\ECommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.dll
+c:\course\ECommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.pdb
+c:\course\ECommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.MvcApplicationPartsAssemblyInfo.cache
+c:\course\ECommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.csprojAssemblyReference.cache
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.exe
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.deps.json
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.runtimeconfig.json
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.runtimeconfig.dev.json
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.pdb
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.csprojAssemblyReference.cache
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.AssemblyInfoInputs.cache
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.AssemblyInfo.cs
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.csproj.CoreCompileInputs.cache
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.RazorTargetAssemblyInfo.cache
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.csproj.CopyComplete
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Products.StaticWebAssets.Manifest.cache
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Products.StaticWebAssets.xml
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.pdb
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.genruntimeconfig.cache
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\scopedcss\bundle\ECommerce.Api.Products.styles.css
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\appsettings.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.exe
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.deps.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.runtimeconfig.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.runtimeconfig.dev.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.pdb
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.csproj.AssemblyReference.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.GeneratedMSBuildEditorConfig.editorconfig
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.AssemblyInfoInputs.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.AssemblyInfo.cs
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.csproj.CoreCompileInputs.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.MvcApplicationPartsAssemblyInfo.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Products.StaticWebAssets.Manifest.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Products.StaticWebAssets.xml
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\scopedcss\bundle\ECommerce.Api.Products.styles.css
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.RazorTargetAssemblyInfo.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.csproj.CopyComplete
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.pdb
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.genruntimeconfig.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\appsettings.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.StaticWebAssets.xml
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.exe
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.deps.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.runtimeconfig.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.runtimeconfig.dev.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.pdb
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.csproj.AssemblyReference.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.GeneratedMSBuildEditorConfig.editorconfig
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.AssemblyInfoInputs.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.AssemblyInfo.cs
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.csproj.CoreCompileInputs.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.MvcApplicationPartsAssemblyInfo.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Products.StaticWebAssets.Manifest.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Products.StaticWebAssets.Pack.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.ECommerce.Api.Products.Microsoft.AspNetCore.StaticWebAssets.props
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.ECommerce.Api.Products.props
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.ECommerce.Api.Products.props
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.ECommerce.Api.Products.props
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.RazorTargetAssemblyInfo.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.csproj.CopyComplete
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.pdb
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.genruntimeconfig.cache

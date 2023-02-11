@@ -1,0 +1,121 @@
+C:\repos\ecommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\repos\ecommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\appsettings.json
+C:\repos\ecommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\repos\ecommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.exe
+C:\repos\ecommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.deps.json
+C:\repos\ecommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.runtimeconfig.json
+C:\repos\ecommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.runtimeconfig.dev.json
+C:\repos\ecommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.dll
+C:\repos\ecommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.pdb
+C:\repos\ecommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Search.StaticWebAssets.Manifest.cache
+C:\repos\ecommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Search.StaticWebAssets.xml
+C:\repos\ecommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.AssemblyInfoInputs.cache
+C:\repos\ecommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.AssemblyInfo.cs
+C:\repos\ecommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.RazorTargetAssemblyInfo.cache
+C:\repos\ecommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.dll
+C:\repos\ecommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.pdb
+C:\repos\ecommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.Polly.dll
+C:\repos\ecommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Polly.dll
+C:\repos\ecommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Polly.Extensions.Http.dll
+C:\repos\ecommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.csproj.CopyComplete
+C:\repos\ecommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.MvcApplicationPartsAssemblyInfo.cache
+c:\course\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\appsettings.Development.json
+c:\course\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\appsettings.json
+c:\course\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+c:\course\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.exe
+c:\course\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.deps.json
+c:\course\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.runtimeconfig.json
+c:\course\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.runtimeconfig.dev.json
+c:\course\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.dll
+c:\course\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.pdb
+c:\course\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.Polly.dll
+c:\course\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Polly.dll
+c:\course\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Polly.Extensions.Http.dll
+c:\course\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Search.StaticWebAssets.Manifest.cache
+c:\course\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Search.StaticWebAssets.xml
+c:\course\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.AssemblyInfoInputs.cache
+c:\course\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.AssemblyInfo.cs
+c:\course\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.RazorTargetAssemblyInfo.cache
+c:\course\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.csproj.CopyComplete
+c:\course\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.dll
+c:\course\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.pdb
+c:\course\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.csprojAssemblyReference.cache
+c:\course\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.exe
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.deps.json
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.runtimeconfig.json
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.runtimeconfig.dev.json
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.pdb
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.Polly.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Polly.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Polly.Extensions.Http.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.csprojAssemblyReference.cache
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.AssemblyInfoInputs.cache
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.AssemblyInfo.cs
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.csproj.CoreCompileInputs.cache
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.RazorTargetAssemblyInfo.cache
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.csproj.CopyComplete
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Search.StaticWebAssets.Manifest.cache
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Search.StaticWebAssets.xml
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.pdb
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.genruntimeconfig.cache
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\scopedcss\bundle\ECommerce.Api.Search.styles.css
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\appsettings.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.exe
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.deps.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.runtimeconfig.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.runtimeconfig.dev.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.pdb
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.Polly.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Polly.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Polly.Extensions.Http.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.csproj.AssemblyReference.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.AssemblyInfoInputs.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.AssemblyInfo.cs
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.csproj.CoreCompileInputs.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.MvcApplicationPartsAssemblyInfo.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Search.StaticWebAssets.Manifest.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Search.StaticWebAssets.xml
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\scopedcss\bundle\ECommerce.Api.Search.styles.css
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.RazorTargetAssemblyInfo.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.csproj.CopyComplete
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.pdb
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.genruntimeconfig.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\appsettings.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.StaticWebAssets.xml
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.exe
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.deps.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.runtimeconfig.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.runtimeconfig.dev.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.pdb
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.Polly.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Polly.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Polly.Extensions.Http.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.csproj.AssemblyReference.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.AssemblyInfoInputs.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.AssemblyInfo.cs
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.csproj.CoreCompileInputs.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.MvcApplicationPartsAssemblyInfo.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Search.StaticWebAssets.Manifest.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Search.StaticWebAssets.Pack.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.ECommerce.Api.Search.Microsoft.AspNetCore.StaticWebAssets.props
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.ECommerce.Api.Search.props
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.ECommerce.Api.Search.props
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.ECommerce.Api.Search.props
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.RazorTargetAssemblyInfo.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.csproj.CopyComplete
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.pdb
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.genruntimeconfig.cache

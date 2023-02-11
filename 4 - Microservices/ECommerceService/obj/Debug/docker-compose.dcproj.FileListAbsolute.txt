@@ -1,0 +1,124 @@
+c:\course\ECommerce\bin\Debug\appsettings.Development.json
+c:\course\ECommerce\bin\Debug\appsettings.json
+c:\course\ECommerce\bin\Debug\Properties\launchSettings.json
+c:\course\ECommerce\bin\Debug\ECommerce.Api.Products.exe
+c:\course\ECommerce\bin\Debug\ECommerce.Api.Customers.exe
+c:\course\ECommerce\bin\Debug\ECommerce.Api.Orders.exe
+c:\course\ECommerce\bin\Debug\ECommerce.Api.Search.exe
+c:\course\ECommerce\bin\Debug\ECommerce.Api.Customers.dll
+c:\course\ECommerce\bin\Debug\ECommerce.Api.Orders.dll
+c:\course\ECommerce\bin\Debug\ECommerce.Api.Products.dll
+c:\course\ECommerce\bin\Debug\ECommerce.Api.Search.dll
+c:\course\ECommerce\bin\Debug\Microsoft.EntityFrameworkCore.dll
+c:\course\ECommerce\bin\Debug\AutoMapper.dll
+c:\course\ECommerce\bin\Debug\Microsoft.ApplicationInsights.AspNetCore.dll
+c:\course\ECommerce\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+c:\course\ECommerce\bin\Debug\Microsoft.EntityFrameworkCore.InMemory.dll
+c:\course\ECommerce\bin\Debug\Polly.dll
+c:\course\ECommerce\bin\Debug\Microsoft.Extensions.Http.Polly.dll
+c:\course\ECommerce\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+c:\course\ECommerce\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\course\ECommerce\bin\Debug\Microsoft.Bcl.HashCode.dll
+c:\course\ECommerce\bin\Debug\Microsoft.ApplicationInsights.dll
+c:\course\ECommerce\bin\Debug\Microsoft.AI.EventCounterCollector.dll
+c:\course\ECommerce\bin\Debug\Microsoft.AI.DependencyCollector.dll
+c:\course\ECommerce\bin\Debug\Microsoft.AI.ServerTelemetryChannel.dll
+c:\course\ECommerce\bin\Debug\Microsoft.AI.PerfCounterCollector.dll
+c:\course\ECommerce\bin\Debug\Microsoft.AI.WindowsServer.dll
+c:\course\ECommerce\bin\Debug\Microsoft.Extensions.Logging.ApplicationInsights.dll
+c:\course\ECommerce\bin\Debug\Polly.Extensions.Http.dll
+c:\course\ECommerce\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+c:\course\ECommerce\bin\Debug\ECommerce.Api.Products.pdb
+c:\course\ECommerce\bin\Debug\ECommerce.Api.Customers.pdb
+c:\course\ECommerce\bin\Debug\ECommerce.Api.Orders.pdb
+c:\course\ECommerce\bin\Debug\ECommerce.Api.Search.pdb
+c:\course\ECommerce\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+c:\course\ECommerce\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\bin\Debug\appsettings.Development.json
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\bin\Debug\appsettings.json
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\bin\Debug\ECommerce.Api.Products.exe
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\bin\Debug\ECommerce.Api.Customers.exe
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\bin\Debug\ECommerce.Api.Orders.exe
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\bin\Debug\ECommerce.Api.Search.exe
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\bin\Debug\ECommerce.Api.Customers.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\bin\Debug\ECommerce.Api.Orders.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\bin\Debug\ECommerce.Api.Products.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\bin\Debug\ECommerce.Api.Search.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\bin\Debug\AutoMapper.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\bin\Debug\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\bin\Debug\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\bin\Debug\Polly.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\bin\Debug\Microsoft.Extensions.Http.Polly.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\bin\Debug\Microsoft.AI.EventCounterCollector.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\bin\Debug\Microsoft.AI.DependencyCollector.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\bin\Debug\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\bin\Debug\Microsoft.AI.PerfCounterCollector.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\bin\Debug\Microsoft.AI.WindowsServer.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\bin\Debug\Microsoft.Extensions.Logging.ApplicationInsights.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\bin\Debug\Polly.Extensions.Http.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\bin\Debug\ECommerce.Api.Products.pdb
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\bin\Debug\ECommerce.Api.Customers.pdb
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\bin\Debug\ECommerce.Api.Orders.pdb
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\bin\Debug\ECommerce.Api.Search.pdb
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\appsettings.Development.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\appsettings.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\ECommerce.Api.Products.deps.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\ECommerce.Api.Products.runtimeconfig.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\ECommerce.Api.Products.runtimeconfig.dev.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\ECommerce.Api.Products.StaticWebAssets.xml
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\ECommerce.Api.Products.exe
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\ECommerce.Api.Customers.deps.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\ECommerce.Api.Customers.runtimeconfig.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\ECommerce.Api.Customers.runtimeconfig.dev.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\ECommerce.Api.Customers.StaticWebAssets.xml
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\ECommerce.Api.Customers.exe
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\ECommerce.Api.Orders.deps.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\ECommerce.Api.Orders.runtimeconfig.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\ECommerce.Api.Orders.runtimeconfig.dev.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\ECommerce.Api.Orders.StaticWebAssets.xml
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\ECommerce.Api.Orders.exe
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\ECommerce.Api.Search.deps.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\ECommerce.Api.Search.runtimeconfig.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\ECommerce.Api.Search.runtimeconfig.dev.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\ECommerce.Api.Search.StaticWebAssets.xml
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\ECommerce.Api.Search.exe
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\ECommerce.Api.Customers.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\ECommerce.Api.Orders.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\ECommerce.Api.Products.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\ECommerce.Api.Search.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\AutoMapper.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\Microsoft.AI.EventCounterCollector.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\Microsoft.AI.DependencyCollector.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\Microsoft.AI.ServerTelemetryChannel.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\Microsoft.AI.PerfCounterCollector.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\Microsoft.AI.WindowsServer.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\Microsoft.Extensions.Logging.ApplicationInsights.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\ECommerce.Api.Products.pdb
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\ECommerce.Api.Customers.pdb
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\ECommerce.Api.Orders.pdb
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\ECommerce.Api.Search.pdb
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\Polly.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\Microsoft.Extensions.Http.Polly.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\bin\Debug\Polly.Extensions.Http.dll

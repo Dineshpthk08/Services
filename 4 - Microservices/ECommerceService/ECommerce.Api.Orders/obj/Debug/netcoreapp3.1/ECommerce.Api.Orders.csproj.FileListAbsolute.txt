@@ -1,0 +1,140 @@
+C:\repos\ecommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\repos\ecommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\appsettings.json
+C:\repos\ecommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\repos\ecommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.exe
+C:\repos\ecommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Orders.StaticWebAssets.Manifest.cache
+C:\repos\ecommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Orders.StaticWebAssets.xml
+C:\repos\ecommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.AssemblyInfoInputs.cache
+C:\repos\ecommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.AssemblyInfo.cs
+C:\repos\ecommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.RazorTargetAssemblyInfo.cache
+C:\repos\ecommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\repos\ecommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\repos\ecommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\repos\ecommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\repos\ecommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.csproj.CopyComplete
+C:\repos\ecommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.deps.json
+C:\repos\ecommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.runtimeconfig.json
+C:\repos\ecommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.runtimeconfig.dev.json
+C:\repos\ecommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.dll
+C:\repos\ecommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.pdb
+C:\repos\ecommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\repos\ecommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\repos\ecommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\repos\ecommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.dll
+C:\repos\ecommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.pdb
+C:\repos\ecommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.MvcApplicationPartsAssemblyInfo.cache
+c:\course\ECommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\appsettings.Development.json
+c:\course\ECommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\appsettings.json
+c:\course\ECommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+c:\course\ECommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.exe
+c:\course\ECommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.deps.json
+c:\course\ECommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.runtimeconfig.json
+c:\course\ECommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.runtimeconfig.dev.json
+c:\course\ECommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.dll
+c:\course\ECommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.pdb
+c:\course\ECommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\AutoMapper.dll
+c:\course\ECommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+c:\course\ECommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+c:\course\ECommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+c:\course\ECommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+c:\course\ECommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\course\ECommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+c:\course\ECommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Orders.StaticWebAssets.Manifest.cache
+c:\course\ECommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Orders.StaticWebAssets.xml
+c:\course\ECommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.AssemblyInfoInputs.cache
+c:\course\ECommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.AssemblyInfo.cs
+c:\course\ECommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.RazorTargetAssemblyInfo.cache
+c:\course\ECommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.csproj.CopyComplete
+c:\course\ECommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.dll
+c:\course\ECommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.pdb
+c:\course\ECommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.exe
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.deps.json
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.runtimeconfig.json
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.runtimeconfig.dev.json
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.pdb
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.csprojAssemblyReference.cache
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.AssemblyInfoInputs.cache
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.AssemblyInfo.cs
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.csproj.CoreCompileInputs.cache
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.RazorTargetAssemblyInfo.cache
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.csproj.CopyComplete
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Orders.StaticWebAssets.Manifest.cache
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Orders.StaticWebAssets.xml
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.dll
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.pdb
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.genruntimeconfig.cache
+C:\Projects\Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\scopedcss\bundle\ECommerce.Api.Orders.styles.css
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\appsettings.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.exe
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.deps.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.runtimeconfig.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.runtimeconfig.dev.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.pdb
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.csproj.AssemblyReference.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.AssemblyInfoInputs.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.AssemblyInfo.cs
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.csproj.CoreCompileInputs.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.MvcApplicationPartsAssemblyInfo.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Orders.StaticWebAssets.Manifest.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Orders.StaticWebAssets.xml
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\scopedcss\bundle\ECommerce.Api.Orders.styles.css
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.RazorTargetAssemblyInfo.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.csproj.CopyComplete
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.pdb
+C:\DemoProjects\10.0 - Services\4 - Microservices\Microservices_NETCore_Azure\Exercise Files\06_03\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.genruntimeconfig.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\appsettings.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.StaticWebAssets.xml
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.exe
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.deps.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.runtimeconfig.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.runtimeconfig.dev.json
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.pdb
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.csproj.AssemblyReference.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.AssemblyInfoInputs.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.AssemblyInfo.cs
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.csproj.CoreCompileInputs.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.MvcApplicationPartsAssemblyInfo.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Orders.StaticWebAssets.Manifest.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Orders.StaticWebAssets.Pack.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.ECommerce.Api.Orders.Microsoft.AspNetCore.StaticWebAssets.props
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.ECommerce.Api.Orders.props
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.ECommerce.Api.Orders.props
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.ECommerce.Api.Orders.props
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.RazorTargetAssemblyInfo.cache
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.csproj.CopyComplete
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.dll
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.pdb
+C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.genruntimeconfig.cache

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ECommerce.Api.Search
+build_property.ProjectDir = C:\DemoProjects\10.0 - Services\4 - Microservices\MicroserviceWithNETCoreAndAzure\ECommerce.Api.Search\
